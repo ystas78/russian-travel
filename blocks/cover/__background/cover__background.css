@@ -31,6 +31,7 @@
 
 .cover__background:hover::before {
   opacity: .9;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 1184px) {

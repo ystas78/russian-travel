@@ -13,6 +13,7 @@
 
 .header__leng-link:hover {
 	opacity: 0.3;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
