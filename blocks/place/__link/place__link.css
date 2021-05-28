@@ -1,4 +1,4 @@
-.place__website__link {
+.place__link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -9,7 +9,7 @@
   transition: 2s;
 }
 
-.place__website__link:hover {
+.place__link:hover {
 	opacity: 0.3;
   cursor: pointer;
 }
