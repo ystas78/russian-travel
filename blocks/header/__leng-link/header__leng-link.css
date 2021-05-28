@@ -1,0 +1,26 @@
+.header__leng-link {
+  width: 22px;
+  height: 20px;
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: right;
+  opacity:1;
+  transition: 2s;
+}
+
+.header__leng-link:hover {
+	opacity: 0.3;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .header__leng-link {
+    width: 30px;
+    height: 28px;
+    font-size: 24px;
+    line-height: 28px;
+  }
+}

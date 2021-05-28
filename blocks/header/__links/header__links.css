@@ -1,0 +1,19 @@
+.header__links {
+  display: flex;
+  justify-content: space-between;
+  width: 62px;
+  height: 20px;
+  margin-top: 14px;
+}
+
+.header__links :last-child {
+  text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  .header__links {
+    width: 78px;
+    height: 28px;
+    margin-top: 18px;
+  }
+}

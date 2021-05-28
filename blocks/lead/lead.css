@@ -1,0 +1,10 @@
+.lead {
+  min-height: 406px;
+  margin-top: 48px;
+}
+
+@media screen and (min-width: 1280px) {
+  .lead {
+    margin-top: 56px;
+  }
+}
