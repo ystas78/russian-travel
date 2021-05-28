@@ -1,0 +1,39 @@
+.intro {
+  max-height: 754px;
+  margin: 64px auto;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 480px) {
+  .intro {
+   margin-left: 24px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    max-height: 429px;
+    margin: 88px auto;
+    width: 93.75%;
+  }
+}
+
+@media screen and (min-width: 989px) {
+  .intro {
+    width: 928px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro {
+    margin: 92px auto;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro {
+    width: 984px;
+  }
+}
