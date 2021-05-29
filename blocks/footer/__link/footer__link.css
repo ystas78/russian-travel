@@ -6,8 +6,8 @@
   color: #FFFFFF;
   text-decoration: none;
   margin-bottom: 32px;
-  opacity:1;
-  transition: 0.5s;
+  opacity: 1;
+  transition: 0.4s;
 }
 
 .footer__link:last-child {
