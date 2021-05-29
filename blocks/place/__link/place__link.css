@@ -6,7 +6,7 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   opacity:1;
-  transition: 2s;
+  transition: 0.5s;
 }
 
 .place__link:hover {

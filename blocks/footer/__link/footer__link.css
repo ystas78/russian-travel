@@ -7,7 +7,7 @@
   text-decoration: none;
   margin-bottom: 32px;
   opacity:1;
-  transition: 2s;
+  transition: 0.5s;
 }
 
 .footer__link:last-child {
