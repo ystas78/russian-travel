@@ -1,5 +1,4 @@
 .intro {
-  min-height: 754px;
   margin: 64px auto;
   width: 90%;
   display: flex;
@@ -14,7 +13,6 @@
 
 @media screen and (min-width: 768px) {
   .intro {
-    min-height: 429px;
     margin: 88px auto;
     width: 93.75%;
   }

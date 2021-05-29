@@ -6,8 +6,4 @@
 <p>The project is a one-page site that tells about the sights that can be seen while traveling around Russia, containing photographs and information about incredibly beautiful natural objects of the country, links to resources with a description of natural attractions, useful information resources. The site was created based on the design developed in the online service "Figma". When creating the project, the following technologies were used: "Flex", "Grid Layout", adaptive layout.</p>
 <p><a href="https://ystas78.github.io/russian-travel/index.html" target="_blank">&#8594; ТУТ ССЫЛКА НА ПРОЕКТ &#8592;</a></p>
 <p><a href="https://ystas78.github.io/russian-travel/index.html" target="_blank">&#8594; HERE LINK TO THE PROJECT &#8592;</a></p>
-<<<<<<< HEAD
 <p>&copy; 2021. Юрий Трощенко</p>
-=======
-<p>&copy; 2021. Юрий Трощенко</p>
->>>>>>> 1e44ee54ed548a064ce7ce8fa5bd76f68c353090
