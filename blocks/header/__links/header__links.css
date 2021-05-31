@@ -1,11 +1,14 @@
 .header__links {
   display: flex;
   justify-content: space-between;
-  min-width: 62px;
+  min-width: 58px;
+  padding-bottom: 8px;
+  align-items: flex-end;
 }
 
 @media screen and (min-width: 768px) {
   .header__links {
-    margin-top: 18px;
+    min-width: 77px;
+    padding-bottom: 6px; 
   }
 }
