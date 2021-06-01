@@ -1,7 +1,7 @@
 .header__links {
   display: flex;
   justify-content: space-between;
-  min-width: 58px;
+  min-width: 62px;
   padding-bottom: 8px;
   align-items: flex-end;
 }
@@ -9,6 +9,6 @@
 @media screen and (min-width: 768px) {
   .header__links {
     min-width: 77px;
-    padding-bottom: 6px; 
+    padding-bottom: 6px;
   }
 }
